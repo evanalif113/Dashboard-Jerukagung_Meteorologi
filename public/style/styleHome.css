@@ -44,7 +44,9 @@ html {
   background-repeat: no-repeat;
   background-attachment: fixed; /* Menetapkan background agar tidak scroll bersama halaman */
   color: #000;
-  padding: 250px;
+  padding: 23px;
+  height: 10cm;
+  width: auto;
   text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
   position: relative;
